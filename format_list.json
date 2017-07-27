@@ -1,36 +1,32 @@
 {
     "GooglePlayStore":{
-        "7.9.90":{
-            "Q-0.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayStore/7.9.90/Q-0.apk"
-        }
+        "Q-0.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayStore/7.9.90/Q-0.apk"
     },"
     GooglePlayService":{
-        "11.3.02":{
-            "036.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/036.apk",
-            "230.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/230.apk",
-            "236.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/236.apk",
-            "448.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/448.apk",
-            "480.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/480.apk",
-            "030.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/030.apk",
-            "280.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/280.apk",
-            "034.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/034.apk",
-            "038.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/038.apk",
-            "436.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/436.apk",
-            "246.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/246.apk",
-            "470.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/470.apk",
-            "440.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/440.apk",
-            "446.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/446.apk",
-            "238.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/238.apk",
-            "234.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/234.apk",
-            "438.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/438.apk",
-            "240.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/240.apk",
-            "032.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/032.apk",
-            "270.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/270.apk",
-            "070.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/070.apk",
-            "430.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/430.apk",
-            "836.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/836.apk",
-            "248.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/248.apk",
-            "434.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/434.apk"
-        }
+        "036.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/036.apk",
+        "230.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/230.apk",
+        "236.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/236.apk",
+        "448.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/448.apk",
+        "480.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/480.apk",
+        "030.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/030.apk",
+        "280.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/280.apk",
+        "034.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/034.apk",
+        "038.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/038.apk",
+        "436.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/436.apk",
+        "246.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/246.apk",
+        "470.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/470.apk",
+        "440.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/440.apk",
+        "446.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/446.apk",
+        "238.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/238.apk",
+        "234.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/234.apk",
+        "438.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/438.apk",
+        "240.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/240.apk",
+        "032.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/032.apk",
+        "270.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/270.apk",
+        "070.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/070.apk",
+        "430.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/430.apk",
+        "836.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/836.apk",
+        "248.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/248.apk",
+        "434.apk":"https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/434.apk"
     }
 }
