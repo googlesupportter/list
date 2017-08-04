@@ -1,5 +1,11 @@
 {
     "GooglePlayStore":{
+        "8.1.25":[
+            "https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayStore/8.1.25/S-0.apk"
+        ],
+        ".DS_Store":[
+            
+        ],
         "7.9.90":[
             "https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayStore/7.9.90/Q-0.apk"
         ]
@@ -30,7 +36,13 @@
             "https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/448.apk",
             "https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/470.apk",
             "https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/480.apk",
-            "https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/836.apk"
+            "https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/530.apk",
+            "https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/836.apk",
+            "https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/846.apk",
+            "https://raw.githubusercontent.com/googlesupportter/googleapps/master/GooglePlayService/11.3.02/876.apk"
+        ],
+        ".DS_Store":[
+            
         ]
     }
 }
